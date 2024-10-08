@@ -92,7 +92,7 @@ textarea {
 }
 
 .form-input {
-  padding: 8px;
+  padding: 16px;
   border: 1px solid var(--accent-color);
   border-radius: 4px;
   background-color: var(--secondary-color);
