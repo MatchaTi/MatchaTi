@@ -1,0 +1,78 @@
+.btn {
+  outline: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 12px 24px;
+  border-radius: 8px;
+}
+
+.btn-primary {
+  background-color: var(--primary-color);
+  color: var(--bg-color);
+}
+
+.btn-primary:hover {
+  background-color: var(--accent-color);
+}
+
+.btn-secondary {
+  background-color: var(--secondary-color);
+  color: var(--text-color);
+}
+
+.btn-secondary:hover {
+  background-color: var(--accent-color);
+}
+
+.profile-picture {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+  overflow: hidden;
+  background-color: var(--accent-color);
+  position: relative;
+  z-index: 1;
+}
+
+.profile-picture img {
+  width: 100%;
+  height: 100%;
+}
+
+textarea {
+  resize: none;
+}
+
+.heading {
+  font-size: 24px;
+  font-weight: 800;
+}
+
+.sub-heading {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.form-item {
+  display: grid;
+  gap: 12px;
+  margin-bottom: 24px;
+}
+
+.form-input {
+  padding: 8px;
+  border: 1px solid var(--accent-color);
+  border-radius: 4px;
+  background-color: var(--secondary-color);
+}
+
+.toggler-mode {
+  min-width: max-content;
+  width: 100%;
+  outline: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 12px 6px;
+  border-radius: 8px;
+}
