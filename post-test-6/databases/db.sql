@@ -21,6 +21,7 @@ create table posts (
     user_id int,
     content text,
     created_at timestamp default current_timestamp,
+    photo varchar(255),
     foreign key (user_id) references users(id)
 );
 

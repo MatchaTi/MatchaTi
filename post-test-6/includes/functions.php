@@ -57,7 +57,6 @@
         $tmpName = $data['tmp_name'];
         var_dump($data);
 
-
         $validExt = ['jpg', 'jpeg', 'png'];
         $fileExt = explode('.', $fileName);
         $fileExt = strtolower(end($fileExt));
@@ -72,7 +71,7 @@
             return false;
         }
 
-        $newFileName = uniqid();
+        $newFileName = date('Y-m-d H.i.s');
         $newFileName .= '.';
         $newFileName .= $fileExt;
 

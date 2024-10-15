@@ -63,7 +63,7 @@
                 <label for="content" class="sub-heading">Create Post</label>
                 <textarea class="form-input" name="content" id="content" placeholder="<?php echo $username.' what are you thinking?'; ?>"></textarea>
             </div>
-            <input type="file" name="photo" id="photo">
+            <input type="file" name="photo" id="photo" accept=".jpg, .jpeg, .png">
             <button type="submit" class="btn btn-primary">Submit</button>
         </form>
         <div class="contents">
