@@ -1,9 +1,3 @@
-CREATE DATABASE commit;
-
-show databases;
-
-use commit;
-
 create table users (
 	id int auto_increment primary key,
     username varchar(50) not null,
