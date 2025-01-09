@@ -8,4 +8,4 @@
 
 #### Pinned Repositories
 
-[![MatchaTi Dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=MatchaTi&repo=dotfiles&title_color=ffffff&text_color=ffffff&icon_color=2c2c2c&bg_color=191919&border_radius=0)](https://github.com/MatchaTi/dotfiles)
+[![MatchaTi Dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=MatchaTi&repo=dotfiles&title_color=EBF4FA&text_color=EBF4FA&icon_color=EBF4FA&bg_color=0A1A24&border_radius=0&border_color=050E14)](https://github.com/MatchaTi/dotfiles)
