@@ -1,4 +1,4 @@
-### Hi! I'm Adi👋
+### Hi! Folks👋
 
 #### Mahasiswa dari Universitas Mulawarman yang nak jadi *front-end* handal
 
