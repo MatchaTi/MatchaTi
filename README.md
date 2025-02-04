@@ -5,7 +5,7 @@
 - 🌸 Daily: `.ts`, `.tsx`, `.css`, `.py`, `.php`, `.blade.php`
 - 🍀 Tools: _EndeavourOS_, _Neovim_, _Figma_, _Notion_
 - 💬 [`ping`](https://instagram.com/adinewold) saya kalau butuh desain
-- ➕ Jago Matematika😎
+- ➕ Tidak Jago Matematika😎
 
 #### Pinned Repositories
 
