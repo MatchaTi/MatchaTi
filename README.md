@@ -1,4 +1,4 @@
-### Hi! Folks👋
+### Hii! Folks👋
 
 #### Mahasiswa dari Universitas Mulawarman yang nak jadi *front-end* handal
 
