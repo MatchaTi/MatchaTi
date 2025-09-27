@@ -1,6 +1,6 @@
 ### Hii! Folks👋
 
-#### Mahasiswa dari Universitas Mulawarman yang nak jadi *front-end* handal
+#### Mahasiswa dari Universitas Mulawarman yang nak jadi *UI/UX* handal
 
 - 🌸 Daily: `.ts`, `.tsx`, `.css`, `.py`, `.php`, `.blade.php`
 - 🍀 Tools: _Arch_, _Neovim_, _Figma_, _Notion_
